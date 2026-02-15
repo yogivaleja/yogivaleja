@@ -1,22 +1,22 @@
-# hey, i'm yogesh 👋
+# Hey, I'm Yogi 👋
 
-**backend engineer @ UBS India** | java & spring boot enthusiast | cloud architecture nerd
+**Engineering @ UBS India** | Java & Spring Boot enthusiast | Cloud Architecture Nerd
 
-turning caffeine into production code since 2021 ☕ → 💻
+Turning Manual Brew Caffeine into Production Code since 2021 ☕ → 💻
 
-## what i build with
+## what I build with
 
 **languages:** java, python, javascript, typescript  
 **frameworks:** spring boot, react, fastapi  
-**cloud & tools:** azure, aws, kubernetes, docker
+**cloud & tools:** azure, kubernetes, docker
 
-## currently
+## Currently
 
 - building scalable microservices at UBS
 - shipping features that move real money (no big deal)
 - making distributed systems actually work
 
-## highlights
+## Highlights
 
 📄 published researcher @ IEEE ICACCS 2021  
 🎓 B.Tech in Computer Engineering  
