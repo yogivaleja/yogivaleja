@@ -1,16 +1,32 @@
-## Hi there 👋
+# hey, i'm yogesh 👋
 
-<!--
-**yogivaleja/yogivaleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**backend engineer @ UBS India** | java & spring boot enthusiast | cloud architecture nerd
 
-Here are some ideas to get you started:
+turning caffeine into production code since 2021 ☕ → 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i build with
+
+**languages:** java, python, javascript, typescript  
+**frameworks:** spring boot, react, fastapi  
+**cloud & tools:** azure, aws, kubernetes, docker
+
+## currently
+
+- building scalable microservices at UBS
+- shipping features that move real money (no big deal)
+- making distributed systems actually work
+
+## highlights
+
+📄 published researcher @ IEEE ICACCS 2021  
+🎓 B.Tech in Computer Engineering  
+🚀 4+ years of building things that don't break (usually)
+
+## let's connect
+
+📧 [valejayogesh@gmail.com](mailto:valejayogesh@gmail.com)  
+💼 [linkedin.com/in/yogivaleja](https://www.linkedin.com/in/yogivaleja/)
+
+---
+
+*"write code that works, then make it elegant"*
