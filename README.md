@@ -30,3 +30,5 @@ Turning Manual Brew Caffeine into Production Code since 2021 ☕ → 💻
 ---
 
 *"write code that works, then make it elegant"*
+*p.s. yes, Claude helped write this. no, it can't write my code (yet)*
+
